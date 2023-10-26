@@ -1,0 +1,95 @@
+s='programming'
+s[7:2]
+''
+s[5:10:3]
+'ai'
+s[5:7:-1]
+''
+s[-11:-5:-1]
+''
+s[-11:-5]
+'progra'
+s[::-1]
+'gnimmargorp'
+s[-5:-11:-1]
+'margor'
+[2:7:-1]
+SyntaxError: invalid syntax
+s1='+'
+s2='-'
+print(s1,s2,s1*5,s2*5)
++ - +++++ -----
+s='good bye'
+s[0]
+'g'
+s[-1]
+'e'
+s[0]==s[-1]
+False
+s[0]!=s[-1]
+True
+s[-1:-4]
+''
+s[-1:-4:-1]
+'eyb'
+s[-1:-5:-1]
+'eyb '
+s[-5:-1]
+'d by'
+s[-4:]
+' bye'
+s[-4:]=='sion'
+False
+a='misinterpretation'
+b='misrepresentation'
+len(a)==len(b)
+True
+len(s)
+8
+len(b)
+17
+len(b)
+17
+b='misrepresentation'
+len(b)
+17
+len(a)
+17
+len(a)=len(b)+1
+SyntaxError: cannot assign to function call here. Maybe you meant '==' instead of '='?
+len(a)==len(b)+1
+False
+
+============= RESTART: C:/Users/FAST COMPUTER 1999/Desktop/try4.py =============
+Enter Temperature30
+good bye
+
+============= RESTART: C:/Users/FAST COMPUTER 1999/Desktop/try4.py =============
+Enter Temperature45
+It is hot!
+good bye
+
+============= RESTART: C:/Users/FAST COMPUTER 1999/Desktop/try4.py =============
+Enter Temperature30
+Pleasant
+good bye
+
+============= RESTART: C:/Users/FAST COMPUTER 1999/Desktop/try4.py =============
+Enter Temperature12
+cold
+good bye
+
+============= RESTART: C:/Users/FAST COMPUTER 1999/Desktop/try4.py =============
+Enter Temperature40
+It is hot!
+good bye
+
+============= RESTART: C:/Users/FAST COMPUTER 1999/Desktop/try4.py =============
+enter hit:12
+enter shield:0
+you are dead
+
+============= RESTART: C:/Users/FAST COMPUTER 1999/Desktop/try4.py =============
+enter hit:16
+enter shield:7
+live
